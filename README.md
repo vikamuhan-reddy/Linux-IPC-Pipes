@@ -101,10 +101,7 @@ exit(EXIT_SUCCESS);
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-03-29 at 21 20 12_81c90eb8](https://github.com/vikamuhan-reddy/Linux-IPC-Pipes/assets/144928933/0f3b6530-2c14-4c89-b380-fd87f8605158)
-
-
-
+![image](./exp3os.jpg)
 
 # RESULT:
 The program is executed successfully.
